@@ -1,0 +1,8 @@
+# Required Python Packages
+
+livekit-sdk
+openai
+deepgram-sdk
+cartesia
+silero
+hedra
